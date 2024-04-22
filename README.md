@@ -3,7 +3,7 @@
 ## 1.作业1  
 作业1描述：中国地图，世界地图，怀柔区地图。
 
-[作业1中国地图链接](https://zc436.github.io/中国地图.html)
+[作业1中国地图链接](https://ZC-1.github.io/中国地图.html)
 
 [作业1世界地图链接](https://zc436.github.io/ZC-1/.guthb.io/世界地图.html)
 
