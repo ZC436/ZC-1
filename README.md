@@ -3,7 +3,8 @@
 ## 1.作业1  
 作业1描述：中国地图，世界地图，怀柔区地图。
 
-[作业1中国地图链接](https://zc436.github.io/ZC-1/.guthb.io/中国地图.html)
+[作业1中国地图链接](https://zc436.github.io/中国地图.html)
+
 [作业1世界地图链接](https://zc436.github.io/ZC-1/.guthb.io/世界地图.html)
 
 [作业1怀柔区链接](https://github.com/ZC436/-.guthb.io/怀柔区.html)
@@ -15,3 +16,4 @@
 作业3描述：云边有个小卖铺的词云（可以根据自己需求多少，最高300左右）
 
 [作业3链接](https://github.com/ZC436/-.guthb.io/云边有个小卖铺词频.html)
+https://zc436.github.io/ZC-1/
