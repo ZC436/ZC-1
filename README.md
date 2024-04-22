@@ -16,4 +16,3 @@
 作业3描述：云边有个小卖铺的词云（可以根据自己需求多少，最高300左右）
 
 [作业3链接](https://github.com/ZC436/-.guthb.io/云边有个小卖铺词频.html)
-https://zc436.github.io/ZC-1/
